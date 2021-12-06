@@ -1,2 +1,16 @@
 *.db
 data/breath.db
+data/dataset
+data/dataset_pandas.npz
+data/dataset.npz
+data/ens_train_df
+data/ens_train_df.csv
+data/ens_val_df
+data/ens_val_df.csv
+data/info.json
+data/test_df
+data/test_df.csv
+data/train_df
+data/train_df.csv
+data/val_df
+data/val_df.csv
