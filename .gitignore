@@ -14,3 +14,4 @@ data/train_df
 data/train_df.csv
 data/val_df
 data/val_df.csv
+info.json
